@@ -1,0 +1,17 @@
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/bin/Debug/Gallery.dll.mdb
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/bin/Debug/Gallery.dll
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/bin/Debug/com.techjini.gallery.apk
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/android/bin/com.techjini.gallery.apk
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/layout/main.xml
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/values/strings.xml
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/R.cs.flag
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/bin/Debug/com.techjini.gallery-Signed.apk
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/uploadflags.txt
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/Gallery.dll
+/Users/techjini/Divya/Xamarin Projects/Gallery/Gallery/obj/Debug/Gallery.dll.mdb

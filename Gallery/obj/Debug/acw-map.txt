@@ -1,0 +1,4 @@
+Gallery.MainActivity, Gallery;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+Gallery.MainActivity, Gallery, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+Gallery.MainActivity;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
+gallery.MainActivity;md58a8cd26ddbca39874618cf9b75d81774.MainActivity
